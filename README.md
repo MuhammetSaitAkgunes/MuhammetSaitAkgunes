@@ -1,5 +1,5 @@
 # *Hi there 👋*
-*I'm Sait and i am 22. I am sharing my software projects. I will continue to improve me.* 
+*I'm Sait and i am 22. I am sharing my software projects. I will continue to improve myself.* 
 - 🔭 I’m currently working on a few little projects for myself.
 - 🌱 I’m currently learning AI technologies, cyber security and full stack development technologies.
 
